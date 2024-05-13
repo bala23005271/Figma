@@ -58,6 +58,7 @@ Figma
   <div style="width: 252px; height: 63px; left: 51px; top: 228px; position: absolute; background: #D9D9D9"></div>
   <div style="left: 70px; top: 251px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">SELECT INTRESTED EVENTS</div>
 </div>
+```
 ## OUTPUT:
 ![image](https://github.com/bala23005271/Figma/assets/155039753/a6afeab2-9f21-4111-a41b-051b50bf16cc)
 
